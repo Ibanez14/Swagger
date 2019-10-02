@@ -1,0 +1,16 @@
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.deps.json
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.dll
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.RazorAssemblyInfo.cache
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.RazorAssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.RazorTargetAssemblyInfo.cache
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.pdb
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.dll
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.pdb
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\bin\Debug\netcoreapp2.2\Swagger.Learning.xml
+E:\Documents\.NET Core projects (Learning)\Swagger Tutorial\Swagger\Swagger.Learning\obj\Debug\netcoreapp2.2\Swagger.Learning.xml

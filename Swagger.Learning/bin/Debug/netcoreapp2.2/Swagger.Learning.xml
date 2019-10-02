@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger.Learning</name>
+    </assembly>
+    <members>
+        <member name="T:Swagger.Learning.Controllers.ValuesController">
+            <summary>
+            Values Controller related comment
+            </summary>
+        </member>
+        <member name="M:Swagger.Learning.Controllers.ValuesController.Get">
+            <summary>
+            Simple http get method to check commemt generation
+            </summary>
+            <remarks>
+            Rolling on the river
+            
+            </remarks>
+            
+            <returns></returns>
+            
+            <response code="200">Response newly created model</response>
+        </member>
+        <member name="P:Swagger.Learning.Controllers.PersonModel.Name">
+            <summary>
+            Simple Name Simple NameSimple NameSimple Name
+            </summary>
+        </member>
+        <member name="P:Swagger.Learning.Controllers.PersonModel.Address">
+            <summary>
+            Address must be in the following template Countr/City
+            </summary>
+        </member>
+    </members>
+</doc>
